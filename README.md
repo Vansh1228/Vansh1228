@@ -1,9 +1,11 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5MDk3NzcsIm5iZiI6MTcwMzkwOTQ3NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDA0MTExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhNWQwYmY4N2Y5ZGZjYmUzN2MxOGM1YjlkZTc3N2RlMDY0MjQ2YmJlYjQ2OWU2ZmM1NjZhYmE0MzJjYjljNWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sM5DNEmDJT0K4fQ876jeAlbOhtUMPdJU0Hl8m1miOFM)]
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5MDk3NzcsIm5iZiI6MTcwMzkwOTQ3NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDA0MTExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhNWQwYmY4N2Y5ZGZjYmUzN2MxOGM1YjlkZTc3N2RlMDY0MjQ2YmJlYjQ2OWU2ZmM1NjZhYmE0MzJjYjljNWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sM5DNEmDJT0K4fQ876jeAlbOhtUMPdJU0Hl8m1miOFM)
 
+<div >
+  <h1 align="center">Hi 👋, I'm Vansh</h1>
+<h3 align="center">Enthusiastic to contribute to the Team's Success | Always a Thrill to Learn and gain new Skills and Experiences</h3>
 
-<h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">Always a Thrill to Learn and gain new Skills and Experiences</h3>
-<img align = "center" alt="coding" width="400" src = "https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+</div>
+
 
 
 - 🌱 I’m currently learning **Android development | Cloud Computing | Spring Boot | Web Developement**
@@ -12,7 +14,6 @@
 
 - 📫 How to reach me **guptavansh1228@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
